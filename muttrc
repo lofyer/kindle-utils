@@ -1,4 +1,5 @@
 set envelope_from=yes
-set from=rex@virtfan.net
+set from=lofyer@gmail.com
+#set from=rex@virtfan.net
 set realname="rex"
 set use_from=yes
