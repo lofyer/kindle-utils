@@ -4,4 +4,4 @@ then
 	echo "usage: sendbook.sh book"
 	exit
 fi
-echo "This is a mail from rex-server" | mutt -F muttrc lofyer_85@kinle.com -s "Book from rex-server" -a $1
+echo "This is a mail from rex-server" | mutt -F muttrc lofyer_85@free.kinle.com -s "Book from rex-server" -a $1
